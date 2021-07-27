@@ -1,0 +1,29 @@
+ 
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.menu {
+
+    background-color: white;
+    font-family: fantasy;
+
+    display:flex ;
+    justify-content: space-between;
+     font-size: 20px;
+}
+
+.grid {
+    display: flex;
+    font-family: sans-serif;
+flex-wrap: wrap;
+
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
